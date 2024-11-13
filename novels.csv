@@ -1,0 +1,86 @@
+title,author,pages,genres,ratings
+Where the Crawdads Sing,Delia Owens,368,"['Fiction', 'Mystery']",4.5
+The Midnight Library,Matt Haig,304,"['Fiction', 'Fantasy']",4.3
+The Invisible Life of Addie LaRue,V.E. Schwab,448,"['Fantasy', 'Historical']",4.6
+The Vanishing Half,Brit Bennett,352,"['Fiction', 'Historical']",4.3
+The Song of Achilles,Madeline Miller,384,"['Fantasy', 'Mythology']",4.7
+Project Hail Mary,Andy Weir,496,"['Science Fiction', 'Thriller']",4.6
+The Paris Library,Janet Skeslien Charles,368,"['Historical Fiction', 'Romance']",4.2
+The Giver of Stars,Jojo Moyes,400,"['Historical Fiction', 'Drama']",4.4
+The Testaments,Margaret Atwood,419,"['Dystopian', 'Fiction']",4.3
+Daisy Jones & The Six,Taylor Jenkins Reid,368,"['Fiction', 'Historical']",4.3
+The Night Watchman,Louise Erdrich,464,"['Historical Fiction', 'Drama']",4.3
+Shantaram,Gregory David Roberts,936,"['Adventure', 'Drama']",4.5
+The Goldfinch,Donna Tartt,771,"['Fiction', 'Drama']",4.1
+Normal People,Sally Rooney,273,"['Fiction', 'Romance']",4.1
+A Man Called Ove,Fredrik Backman,337,"['Fiction', 'Drama']",4.5
+The Rosie Project,Graeme Simsion,295,"['Romance', 'Comedy']",4.3
+Big Little Lies,Liane Moriarty,460,"['Fiction', 'Thriller']",4.3
+The Light We Lost,Jill Santopolo,336,"['Romance', 'Fiction']",4.1
+The Nightingale,Kristin Hannah,440,"['Historical Fiction', 'Drama']",4.6
+The Silent Corner,Dean Koontz,464,"['Thriller', 'Mystery']",4.1
+The Outsider,Stephen King,576,"['Thriller', 'Horror']",4.2
+Beneath a Scarlet Sky,Mark Sullivan,513,"['Historical Fiction', 'Drama']",4.6
+The Alice Network,Kate Quinn,503,"['Historical Fiction', 'War']",4.4
+Circe,Madeline Miller,400,"['Fantasy', 'Mythology']",4.5
+Educated,Tara Westover,334,"['Memoir', 'Non-fiction']",4.5
+Becoming,Michelle Obama,426,"['Memoir', 'Non-fiction']",4.8
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,443,"['Non-fiction', 'History']",4.5
+The Help,Kathryn Stockett,451,"['Fiction', 'Drama']",4.5
+The Hunger Games,Suzanne Collins,374,"['Dystopian', 'Science Fiction']",4.7
+The Maze Runner,James Dashner,375,"['Science Fiction', 'Dystopian']",4.3
+Divergent,Veronica Roth,487,"['Dystopian', 'Science Fiction']",4.5
+The Girl on the Train,Paula Hawkins,395,"['Thriller', 'Mystery']",4.2
+Sharp Objects,Gillian Flynn,254,"['Thriller', 'Mystery']",4.0
+Little Fires Everywhere,Celeste Ng,338,"['Fiction', 'Drama']",4.4
+The Handmaid's Tale,Margaret Atwood,311,"['Dystopian', 'Fiction']",4.3
+The Name of the Wind,Patrick Rothfuss,662,"['Fantasy', 'Adventure']",4.6
+The Night Circus,Erin Morgenstern,387,"['Fantasy', 'Drama']",4.5
+The Water Dancer,Ta-Nehisi Coates,403,"['Historical Fiction', 'Fantasy']",4.2
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,388,"['Fiction', 'Romance']",4.6
+Dune,Frank Herbert,412,"['Science Fiction', 'Adventure']",4.5
+The Hunger Games,Suzanne Collins,374,"['Dystopian', 'Adventure']",4.7
+Cloud Atlas,David Mitchell,544,"['Science Fiction', 'Adventure']",4.3
+The Lovely Bones,Alice Sebold,328,"['Fiction', 'Drama']",4.2
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,309,"['Fantasy', 'Adventure']",4.8
+Harry Potter and the Chamber of Secrets,J.K. Rowling,341,"['Fantasy', 'Adventure']",4.7
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,435,"['Fantasy', 'Adventure']",4.7
+Harry Potter and the Goblet of Fire,J.K. Rowling,734,"['Fantasy', 'Adventure']",4.7
+Harry Potter and the Order of the Phoenix,J.K. Rowling,766,"['Fantasy', 'Adventure']",4.6
+Harry Potter and the Half-Blood Prince,J.K. Rowling,652,"['Fantasy', 'Adventure']",4.6
+Harry Potter and the Deathly Hallows,J.K. Rowling,607,"['Fantasy', 'Adventure']",4.7
+The Great Gatsby,F. Scott Fitzgerald,180,"['Classic', 'Novel']",4.4
+To Kill a Mockingbird,Harper Lee,281,"['Classic', 'Novel']",4.8
+1984,George Orwell,328,"['Dystopian', 'Science Fiction']",4.7
+Pride and Prejudice,Jane Austen,279,"['Classic', 'Romance']",4.5
+The Catcher in the Rye,J.D. Salinger,277,"['Classic', 'Novel']",4.0
+The Lord of the Rings: The Fellowship of the Ring,J.R.R. Tolkien,423,"['Fantasy', 'Adventure']",4.8
+The Lord of the Rings: The Two Towers,J.R.R. Tolkien,352,"['Fantasy', 'Adventure']",4.7
+The Lord of the Rings: The Return of the King,J.R.R. Tolkien,416,"['Fantasy', 'Adventure']",4.8
+Moby Dick,Herman Melville,585,"['Adventure', 'Classic']",3.5
+War and Peace,Leo Tolstoy,1225,"['Historical Fiction', 'Classic']",4.1
+The Odyssey,Homer,541,"['Epic', 'Classic']",4.2
+The Alchemist,Paulo Coelho,208,"['Fiction', 'Philosophical']",4.3
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,224,"['Science Fiction', 'Comedy']",4.5
+The Book Thief,Markus Zusak,552,"['Historical Fiction', 'Drama']",4.6
+The Diary of a Young Girl,Anne Frank,283,"['Biography', 'Historical']",4.8
+A Tale of Two Cities,Charles Dickens,489,"['Historical Fiction', 'Classic']",4.3
+Brave New World,Aldous Huxley,268,"['Dystopian', 'Science Fiction']",4.2
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",C.S. Lewis,208,"['Fantasy', 'Adventure']",4.7
+The Picture of Dorian Gray,Oscar Wilde,254,"['Gothic', 'Classic']",4.2
+The Fault in Our Stars,John Green,313,"['Young Adult', 'Romance']",4.4
+The Road,Cormac McCarthy,287,"['Post-apocalyptic', 'Fiction']",4.3
+Gone Girl,Gillian Flynn,422,"['Thriller', 'Mystery']",4.1
+The Silent Patient,Alex Michaelides,336,"['Thriller', 'Mystery']",4.4
+Little Fires Everywhere,Celeste Ng,338,"['Fiction', 'Drama']",4.4
+The Girl with the Dragon Tattoo,Stieg Larsson,465,"['Mystery', 'Thriller']",4.2
+Dune,Frank Herbert,412,"['Science Fiction', 'Adventure']",4.5
+The Handmaid's Tale,Margaret Atwood,311,"['Dystopian', 'Fiction']",4.3
+The Name of the Wind,Patrick Rothfuss,662,"['Fantasy', 'Adventure']",4.6
+The Night Circus,Erin Morgenstern,387,"['Fantasy', 'Drama']",4.5
+Americanah,Chimamanda Ngozi Adichie,496,"['Fiction', 'Drama']",4.4
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,388,"['Fiction', 'Romance']",4.6
+Circe,Madeline Miller,400,"['Fantasy', 'Mythology']",4.5
+Educated,Tara Westover,334,"['Memoir', 'Non-fiction']",4.5
+Becoming,Michelle Obama,426,"['Memoir', 'Non-fiction']",4.8
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,443,"['Non-fiction', 'History']",4.5
