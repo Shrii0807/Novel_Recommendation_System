@@ -1,0 +1,852 @@
+[
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "pages": 368,
+    "genres": [
+      "Fiction",
+      "Mystery"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "pages": 304,
+    "genres": [
+      "Fiction",
+      "Fantasy"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Invisible Life of Addie LaRue",
+    "author": "V.E. Schwab",
+    "pages": 448,
+    "genres": [
+      "Fantasy",
+      "Historical"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "pages": 352,
+    "genres": [
+      "Fiction",
+      "Historical"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "pages": 384,
+    "genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "pages": 496,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Paris Library",
+    "author": "Janet Skeslien Charles",
+    "pages": 368,
+    "genres": [
+      "Historical Fiction",
+      "Romance"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "The Giver of Stars",
+    "author": "Jojo Moyes",
+    "pages": 400,
+    "genres": [
+      "Historical Fiction",
+      "Drama"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "pages": 419,
+    "genres": [
+      "Dystopian",
+      "Fiction"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Daisy Jones & The Six",
+    "author": "Taylor Jenkins Reid",
+    "pages": 368,
+    "genres": [
+      "Fiction",
+      "Historical"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Night Watchman",
+    "author": "Louise Erdrich",
+    "pages": 464,
+    "genres": [
+      "Historical Fiction",
+      "Drama"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Shantaram",
+    "author": "Gregory David Roberts",
+    "pages": 936,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "pages": 771,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "pages": 273,
+    "genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "pages": 337,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "pages": 295,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "pages": 460,
+    "genres": [
+      "Fiction",
+      "Thriller"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Light We Lost",
+    "author": "Jill Santopolo",
+    "pages": 336,
+    "genres": [
+      "Romance",
+      "Fiction"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "pages": 440,
+    "genres": [
+      "Historical Fiction",
+      "Drama"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Silent Corner",
+    "author": "Dean Koontz",
+    "pages": 464,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "pages": 576,
+    "genres": [
+      "Thriller",
+      "Horror"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "Beneath a Scarlet Sky",
+    "author": "Mark Sullivan",
+    "pages": 513,
+    "genres": [
+      "Historical Fiction",
+      "Drama"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Alice Network",
+    "author": "Kate Quinn",
+    "pages": 503,
+    "genres": [
+      "Historical Fiction",
+      "War"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "pages": 334,
+    "genres": [
+      "Memoir",
+      "Non-fiction"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "pages": 426,
+    "genres": [
+      "Memoir",
+      "Non-fiction"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "pages": 443,
+    "genres": [
+      "Non-fiction",
+      "History"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Help",
+    "author": "Kathryn Stockett",
+    "pages": 451,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "pages": 374,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "The Maze Runner",
+    "author": "James Dashner",
+    "pages": 375,
+    "genres": [
+      "Science Fiction",
+      "Dystopian"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Divergent",
+    "author": "Veronica Roth",
+    "pages": 487,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "pages": 395,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "pages": 254,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "ratings": 4.0
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "pages": 338,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "pages": 311,
+    "genres": [
+      "Dystopian",
+      "Fiction"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "pages": 662,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "pages": 387,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Water Dancer",
+    "author": "Ta-Nehisi Coates",
+    "pages": 403,
+    "genres": [
+      "Historical Fiction",
+      "Fantasy"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "pages": 388,
+    "genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "pages": 412,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "pages": 374,
+    "genres": [
+      "Dystopian",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "pages": 544,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Lovely Bones",
+    "author": "Alice Sebold",
+    "pages": 328,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "pages": 309,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "pages": 341,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "pages": 435,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "pages": 734,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "pages": 766,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "pages": 652,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "pages": 607,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "pages": 180,
+    "genres": [
+      "Classic",
+      "Novel"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "pages": 281,
+    "genres": [
+      "Classic",
+      "Novel"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "pages": 328,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "pages": 279,
+    "genres": [
+      "Classic",
+      "Romance"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "pages": 277,
+    "genres": [
+      "Classic",
+      "Novel"
+    ],
+    "ratings": 4.0
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "pages": 423,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "pages": 352,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "pages": 416,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "pages": 585,
+    "genres": [
+      "Adventure",
+      "Classic"
+    ],
+    "ratings": 3.5
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "pages": 1225,
+    "genres": [
+      "Historical Fiction",
+      "Classic"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "pages": 541,
+    "genres": [
+      "Epic",
+      "Classic"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "pages": 208,
+    "genres": [
+      "Fiction",
+      "Philosophical"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "pages": 224,
+    "genres": [
+      "Science Fiction",
+      "Comedy"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "pages": 552,
+    "genres": [
+      "Historical Fiction",
+      "Drama"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "pages": 283,
+    "genres": [
+      "Biography",
+      "Historical"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "pages": 489,
+    "genres": [
+      "Historical Fiction",
+      "Classic"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "pages": 268,
+    "genres": [
+      "Dystopian",
+      "Science Fiction"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "pages": 208,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.7
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "pages": 254,
+    "genres": [
+      "Gothic",
+      "Classic"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "pages": 313,
+    "genres": [
+      "Young Adult",
+      "Romance"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "pages": 287,
+    "genres": [
+      "Post-apocalyptic",
+      "Fiction"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "pages": 422,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "ratings": 4.1
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "pages": 336,
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "pages": 338,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "pages": 465,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "ratings": 4.2
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "pages": 412,
+    "genres": [
+      "Science Fiction",
+      "Adventure"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "pages": 311,
+    "genres": [
+      "Dystopian",
+      "Fiction"
+    ],
+    "ratings": 4.3
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "pages": 662,
+    "genres": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "pages": 387,
+    "genres": [
+      "Fantasy",
+      "Drama"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "pages": 496,
+    "genres": [
+      "Fiction",
+      "Drama"
+    ],
+    "ratings": 4.4
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "pages": 388,
+    "genres": [
+      "Fiction",
+      "Romance"
+    ],
+    "ratings": 4.6
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "pages": 400,
+    "genres": [
+      "Fantasy",
+      "Mythology"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "pages": 334,
+    "genres": [
+      "Memoir",
+      "Non-fiction"
+    ],
+    "ratings": 4.5
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "pages": 426,
+    "genres": [
+      "Memoir",
+      "Non-fiction"
+    ],
+    "ratings": 4.8
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "pages": 443,
+    "genres": [
+      "Non-fiction",
+      "History"
+    ],
+    "ratings": 4.5
+  }
+]
