@@ -2,3 +2,4 @@ streamlit
 pymongo
 bcrypt
 pandas
+scikit-learn
