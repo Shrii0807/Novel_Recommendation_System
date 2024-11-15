@@ -1,4 +1,4 @@
-# Novel_Reccomendation_System
+# Novel_Recommendation_System
 This application is a novel recommendation system built using Streamlit, MongoDB, and Faker for data generation. The system allows users to browse novels, explore genres, and receive personalized recommendations based on selected genres and rating preferences.
 ###
 # Features
