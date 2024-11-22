@@ -8,12 +8,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 import ast
 
 # MongoDB connection for login system
-client = pymongo.MongoClient("mongodb://localhost:27017/")
+client = pymongo.MongoClient("mongodb+srv://shrishtitayde:Shrishti123@shrishti0.n8mop.mongodb.net/")
 db_auth = client['streamlit_auth']  # Database for authentication
 users_collection = db_auth['users']  # Collection for users
 
 # MongoDB connection for novel recommendation system
-client = MongoClient('mongodb://localhost:27017/')
+client = MongoClient('mongodb+srv://shrishtitayde:Shrishti123@shrishti0.n8mop.mongodb.net/')
 db = client['novel_db']
 collection = db['novels']
 
